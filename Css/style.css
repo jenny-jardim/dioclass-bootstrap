@@ -1,0 +1,26 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #13A3DE;
+    padding-left: 10px;
+
+}
+
+.about-us {
+    background-color: aliceblue;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.partners {
+    background: #A2E1FA;
+}
+
+.services {
+    background-color: whitesmoke;
+}
